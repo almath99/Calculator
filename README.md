@@ -1,1 +1,1 @@
-Some simple python projects that I add here as scripts. 
+Some simple python projects for now. 
